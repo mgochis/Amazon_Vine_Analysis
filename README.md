@@ -18,7 +18,7 @@ Utlizing a product review database from Amazon we compared to difference between
     - Percentage of 5 star Vine reviews: 45.5%
     - Percentage of 5 star non-Vine reviews: 52.3%
 
-[Insert Image Here]
+![Insert Image Here](https://github.com/mgochis/Amazon_Vine_Analysis/blob/b9e447a6fc69a3e686df53a79bca97b87c26826a/screenshot.png)
 
 ## Summary
 
